@@ -1,9 +1,11 @@
 const assertEqual = require('./assertEqual');
-const tail = function(array) {
+const tail = function (array) {
   let newArray = array.slice(1);
   return newArray
 };
- /*  if (array.length > 1) {
+
+
+/*  if (array.length > 1) {
     console.log(array.slice(1));
   } else {
     return [];

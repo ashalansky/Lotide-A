@@ -12,6 +12,8 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Amanda Shalansky",
+  "author": { "name" : "Amanda Shalansky"
+    , "email" : "ashalansky20@hotmail.com"
+    }
   "license": "ISC"
 }

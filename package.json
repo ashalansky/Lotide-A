@@ -1,7 +1,7 @@
 {
   "name": "lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Set of Javascript Functions",
   "main": "assertArraysEqual.js",
   "dependencies": {
     "chai": "^4.2.0"
@@ -12,6 +12,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Amanda Shalansky",
   "license": "ISC"
 }
